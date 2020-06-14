@@ -15,9 +15,9 @@ Webpage that uses javascript to generate a random password based on te following
 https://sparshpatwa.github.io/ucb-03/
 
 ## **Screenshots**
-![](./Assets/password-generator-00.png)
 ![](./Assets/password-generator-01.png)
 ![](./Assets/password-generator-02.png)
+![](./Assets/password-generator-03.png)
 
 ## **Status**
 Deployed using GITHUB
