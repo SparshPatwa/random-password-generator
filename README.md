@@ -15,11 +15,10 @@ Webpage that uses javascript to generate a random password based on te following
 https://sparshpatwa.github.io/ucb-03/
 
 ## **Screenshots**
-![](./Assets/password_generator_00.png)
-![](./Assets/password_generator_01.png)
-![](./Assets/password_generator_02.png)
+![](./Assets/password-generator-00.png)
+![](./Assets/password-generator-01.png)
+![](./Assets/password-generator-02.png)
 
 ## **Status**
 Deployed using GITHUB
-TODO:
-* User input JS function consolidation
+* TODO: User input JS function consolidation
