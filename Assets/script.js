@@ -8,7 +8,7 @@ var generateBtn = document.querySelector("#generate");
 // Write password to the #password input
 function writePassword() {
   var password = generatePassword();
-  window.alert(password)
+  window.alert("Your Random Password is:\n"+password)
 
   var passwordText = document.querySelector("#password");
   passwordText.value = password;
@@ -36,6 +36,7 @@ function lengthPassword(){
   var length = prompt("Enter Password Length", "128");
   length = parseInt(length);
   if(length > 128 || length < 8) {
+    window.alert("Password length needs to be >= 8 and <=128\nDefaulting to 128");
     length = length_def;
   }
   return length;
