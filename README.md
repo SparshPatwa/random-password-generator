@@ -1,4 +1,4 @@
-# **Sparsh Patwa's Personal Page**
+# **Javascript based random password generator**
 
 ## **Purpose**
 Webpage that uses javascript to generate a random password based on te following user inputs:
